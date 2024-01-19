@@ -43,10 +43,10 @@ function Modal() {
   }
 
   return (
-    <dialog id="link_shortner_modal" className="modal">
-      <div className="modal-box glass  backdrop-blur border-1 border-primary border-solid">
+    <dialog id="link_shortner_modal" className="modal w-full">
+      <div className="modal-box glass  backdrop-blur border-1 border-primary border-solid w-full">
         <h3 className="font-bold text-2xl  text-primary">Create new</h3>
-        <div className="w-full h-0.5 bg-primary mb-5"></div>
+        <div className="w-full h-0.5 bg-primary mb-5 w-full"></div>
         <form action="">
           <div className="pb-4">
             <label
