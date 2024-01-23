@@ -8,12 +8,22 @@
 <a href="https://react.dev">
 <img src="./readme assets/react.png" alt="React" >
 </a>
-<img src="./readme assets/html.png" alt="Html5" href="https://html.com">
-<img src="./readme assets/css.png" alt="CSS" href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-<img src="./readme assets/js.png" alt="JavaScript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="./readme assets/tailwind.png" alt="Tailwind" href="https://tailwindcss.com">
-<img src="./readme assets/vite.png" alt="Vite" href="https://vitejs.dev">
-<img src="./readme assets/daisyui.png" alt="daisy Ui" href="https://daisyui.com">
+<a href="https://developer.mozilla.org/en-US/docs/Web/Html">
+<img src="./readme assets/html.png" alt="Html5" >
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<img src="./readme assets/css.png" alt="CSS" href="https://developer.mozilla.org/en-US/docs/Web/CSS"></a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="./readme assets/js.png" alt="JavaScript" >
+</a>
+<a  href="https://tailwindcss.com">
+<img src="./readme assets/tailwind.png" alt="Tailwind"></a>
+<a href="https://vitejs.dev"> 
+<img src="./readme assets/vite.png" alt="Vite" ></a>
+<a href="https://daisyui.com">
+<img src="./readme assets/daisyui.png" alt="daisy Ui" >
+</a>
 
 </div>
 
