@@ -5,7 +5,9 @@
 ## Built with :
 
 <div style= "display : flex ; justify-content: center; width:100%;  " > 
-<img src="./readme assets/react.png" alt="React" href="https://react.dev">
+<a href="https://react.dev">
+<img src="./readme assets/react.png" alt="React" >
+</a>
 <img src="./readme assets/html.png" alt="Html5" href="https://html.com">
 <img src="./readme assets/css.png" alt="CSS" href="https://developer.mozilla.org/en-US/docs/Web/CSS">
 <img src="./readme assets/js.png" alt="JavaScript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
