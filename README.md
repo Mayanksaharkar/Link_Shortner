@@ -1,9 +1,10 @@
 # Link Shortner
-#### Welcome to the Link Shortener website 
+
+#### Welcome to the Link Shortener website
 
 ## Built with :
 
-<div style= "display : flex ; justify-content: center;  " > 
+<div style= "display : flex ; justify-content: center; width:100%;  " > 
 <img src="./readme assets/react.png" alt="React">
 <img src="./readme assets/html.png" alt="Html5">
 <img src="./readme assets/css.png" alt="CSS">
