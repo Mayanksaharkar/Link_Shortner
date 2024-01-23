@@ -37,13 +37,17 @@
 <li href="#usage">Usage</li>
 </ol>
 <section id="intro">
-<h3>Introduction</h3>
+
+##  Introduction
+
 <h5>This Link Shortener website is a simple and efficient tool to shorten long URLs. It has been developed using modern web technologies, including React for the frontend, Tailwind CSS for styling, DaisyUI for UI components, and Vite as the build tool.</h5>
 </section>
 
 <section id="features">
 <h3>
-Features
+
+##  Features
+
 </h3>
 <ul>
 <li>
@@ -65,7 +69,8 @@ Easy to deploy and integrate into existing projects.
 </section>
 
 <section>
-<h3>Requirements</h3>
+
+##  Requirements
 
 <h5>
 Make sure you have the following installed before running the application:
@@ -76,9 +81,9 @@ Make sure you have the following installed before running the application:
 </section>
 
 <section>
-<h3>
-Installation
-</h3>
+
+## Installation
+
 <ol>
 <li>
 Clone the repository:
@@ -103,9 +108,9 @@ Install dependencies:
 </section>
 
 <section>
-<h3>
-Usage
-</h3>
+
+## Usage
+ 
 <ol>
 <li>
 Start the Development server :
