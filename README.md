@@ -1,4 +1,4 @@
-# Link Shortner ([demo]('https://mayanksaharkar.github.io/Link_Shortner/'))
+# Link Shortner ([demo](https://mayanksaharkar.github.io/Link_Shortner/))
 
 #### Welcome to the Link Shortener website
 
